@@ -28,12 +28,6 @@ I enjoy blending logic and creativity through:
 
 ---
 
-## 📷 Preview
-
-![Screenshot](./vedika-profile.jpg.jpeg)
-
----
-
 ## 🤝 Connect with Me
 
 - [GitHub](https://github.com/Vedika-2006)
