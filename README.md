@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, education, and interests in tech and design.
 
-🔗 **Live Demo**: [Click here to view the site](https://vedika-2006.github.io/vedika-portfolio/)
+🔗 **Live Demo**: [Click here to view the site]![Image](https://github.com/user-attachments/assets/0cc9c074-5d4c-4417-9dae-b0b69961e1a0)
 
 ---
 
